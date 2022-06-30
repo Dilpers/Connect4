@@ -1,0 +1,16 @@
+#this requires Numpy, Pygame, sys and maths modules
+Import Chip as chip
+
+class Player:
+  
+  def getPlayer():
+  return INT
+  
+  def setPlayer(INT, p)
+  return ""
+  
+  def getChipMark():
+  return char
+  
+  def setChipMark(char, c):
+  
